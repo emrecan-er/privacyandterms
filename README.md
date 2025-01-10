@@ -1,6 +1,6 @@
 # DrawAI: Drawing to Image No Results - Privacy Policy
 
-This document outlines the privacy policy for the **DrawAI: Drawing to Image No Results** mobile application (referred to as "Application"), developed by **Emrecan Er** (referred to as "Service Provider"). The Application is offered as a commercial service intended for use "AS IS".
+This document outlines the privacy policy for the **DrawAI: Drawing to Image** mobile application (referred to as "Application"), developed by **Emrecan Er** (referred to as "Service Provider"). The Application is offered as a commercial service intended for use "AS IS".
 
 ## Information Collection and Use
 
